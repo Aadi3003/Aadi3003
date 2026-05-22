@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Aaditya 👋
-
-🎓 B.Tech in Electronics & Communication Engineering (AI/ML Specialization)  
+🎓 B.Tech in Electronics & Communication Engineering (AI/ML Specialisation)  
 📍 Mumbai / Delhi NCR, India  
 💡 Interested in AI/ML, Data Analytics, Computer Vision, and Embedded Systems
 
@@ -27,19 +26,16 @@ Here are some ideas to get you started:
 
 ## Projects
 - 🤟 Real-Time Sign Language Translator  
-  Computer vision based translator using MediaPipe + KNN for live gesture recognition.
-
+  Computer vision-based translator using MediaPipe + KNN for live gesture recognition.
 - 🚨 Fall Detection System  
-  ML-assisted human fall detection prototype using sensor/computer vision concepts.
-
+  ML-assisted human fall detection prototype using sensors & NN concepts.
 - 🎮 Space Walker  
   Python arcade-style game project.
 
 ## Currently Exploring
-- AI/ML applications
-- Data analytics & dashboards
-- Entry-level tech roles
 - Open-source & personal projects
+- Entry-level tech roles
+- AI/ML applications
 
 ## Connect
 - LinkedIn: www.linkedin.com/in/aaditya-sharma-3446842a6
